@@ -14,7 +14,9 @@ browser.topSites.get().then((sites) => {
     let a = document.createElement("a");
     a.href = site.url;
     a.innerText = site.title || site.url;
+    a.style = "color: var(--text-color)";
     li.appendChild(a);
+    li.style = "background: var(--bg-color); color: var(--text-color);";
     ul.appendChild(li);
   }
 
