@@ -9,17 +9,17 @@
         "default_title": "List cookies in the active tab",
         "default_popup": "firebird.html",
         "default_icon": {
-          "19": "icons/default19.png",
-          "38": "icons/default38.png"
+          "19": "icons/firebird.png",
+          "38": "icons/firebird.png"
         }
       },
       "chrome_url_overrides": {
         "newtab": "append.html"
       },
     "icons": {
-        "32": "icons/icon-32.png",
-        "48": "icons/cookie.png",
-        "96": "icons/cookie@2x.png"
+        "32": "icons/firebird.png",
+        "48": "icons/firebird.png",
+        "96": "icons/firebird.png"
       },
     "permissions": ["cookies","<all_urls>","tabs", "webNavigation", "storage", "topSites"],
     "background": {
