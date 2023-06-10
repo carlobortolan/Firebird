@@ -1,6 +1,8 @@
 # FIREBIRD
 
-This Firefox add-on enhances your browsing experience with the following functions:
+> **NOTE**: **THIS PROJECT IS STILL UNDER DEVELOPMENT.**
+
+A simple Firefox add-on that displays current cookies and your most relevant pages.
 
 ## FEATURES
 
