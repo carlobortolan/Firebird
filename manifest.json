@@ -13,18 +13,21 @@
           "38": "icons/default38.png"
         }
       },
+      "chrome_url_overrides": {
+        "newtab": "append.html"
+      },
     "icons": {
         "32": "icons/icon-32.png",
         "48": "icons/cookie.png",
         "96": "icons/cookie@2x.png"
       },
-    "permissions": ["cookies","<all_urls>","tabs", "webNavigation", "storage"],
+    "permissions": ["cookies","<all_urls>","tabs", "webNavigation", "storage", "topSites"],
     "background": {
       "scripts": [ "background.js" ]
-    },
+      },
     "browser_specific_settings": {
         "gecko": {
-          "strict_min_version": "50.0"
+          "strict_min_version": "54.0a1"
         }
       }    
   }
