@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "Firebird",
+    "description": "Shows current tab's information including cookies and TPS stats.",
+    "version": "0.1.0",
+    "homepage_url": "https://github.com/carlobortolan/firebird",
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "List cookies in the active tab",
+        "default_popup": "firebird.html",
+        "default_icon": {
+          "19": "icons/default19.png",
+          "38": "icons/default38.png"
+        }
+      },
+    "icons": {
+        "32": "icons/icon-32.png",
+        "48": "icons/cookie.png",
+        "96": "icons/cookie@2x.png"
+      },
+    "permissions": ["cookies","<all_urls>","tabs", "webNavigation", "storage"],
+    "background": {
+      "scripts": [ "background.js" ]
+    },
+    "browser_specific_settings": {
+        "gecko": {
+          "strict_min_version": "50.0"
+        }
+      }    
+  }
+  
