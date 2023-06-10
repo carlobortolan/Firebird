@@ -42,7 +42,7 @@ For any issues or suggestions, please feel free to [open an issue](https://githu
 
 ## LICENSE
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Mozilla Public License Version 2.0](LICENSE).
 
 
 ---
