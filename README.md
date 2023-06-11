@@ -24,6 +24,8 @@ A simple Firefox add-on that displays current cookies and your most relevant pag
 
 ## INSTALLATION
 
+You can add it by visiting https://addons.mozilla.org/en-US/firefox/addon/thefirebird or:
+
 1. Open Firefox browser.
 2. Go to the Firefox Add-ons website.
 3. Search for "Firebird" add-on.
