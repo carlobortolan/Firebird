@@ -46,7 +46,6 @@ For any issues or suggestions, please feel free to [open an issue](https://githu
 
 This project is licensed under the [Mozilla Public License Version 2.0](LICENSE).
 
-
 ---
 
 © Carlo Bortolan
