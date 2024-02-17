@@ -1,6 +1,7 @@
 # FIREBIRD
 
-> **NOTE**: **THIS PROJECT IS STILL UNDER DEVELOPMENT.**
+> [!IMPORTANT]
+> As of February 18, 2024, this project has been put on hold and will probably not be worked on or finished in the near future.
 
 A simple Firefox add-on that displays current cookies and your most relevant pages.
 
